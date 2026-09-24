@@ -1,0 +1,15 @@
+{
+  "name": "The Teen Take",
+  "url": "https://the-teen-take.pages.dev",
+  "tagline": "A Grade 8 writer's weekly notes on the brands, trends, ads and aesthetics everyone at school is talking about.",
+  "author": "The Teen Take writer",
+  "authorLine": "Grade 8 · future copywriter",
+  "signoff": "xo, TTT",
+  "note": "I notice why people pick one thing over another. Shoes, snacks, water bottles, skincare. So I'm writing it all down, one post every week.",
+  "currently": [
+    ["currently reading", "The Outsiders by S.E. Hinton (she wrote it at 16!)"],
+    ["obsessed with", "Y2K fashion, thrift finds and clever packaging"],
+    ["writing next", "Why I'm starting this blog"],
+    ["dream job", "Writing the words that make people stop scrolling"]
+  ]
+}
