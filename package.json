@@ -1,0 +1,5 @@
+{
+  "name": "the-teen-take",
+  "private": true,
+  "scripts": { "build": "node build.js" }
+}
